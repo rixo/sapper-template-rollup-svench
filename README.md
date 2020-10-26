@@ -10,6 +10,8 @@ cd my-app
 yarn # or npm install
 ```
 
+Actually, you'll probably want to add Svench to an existing Sapper project. Refer to [this commit](https://github.com/rixo/sapper-template-rollup-svench/commit/7b17e472627218c2b66dc5eb98404e810ad16cf4) to see the changes I had to make to add Svench to a raw Sapper template.
+
 ## Usage
 
 Launch Svench:
