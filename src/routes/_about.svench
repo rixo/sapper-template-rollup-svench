@@ -1,0 +1,12 @@
+<script>
+  import { View } from 'svench'
+  import About from './about.svelte'
+</script>
+
+<svelte:head>
+  <link rel="stylesheet" href="global.css" />
+</svelte:head>
+
+<View name="default" block>
+  <About />
+</View>
